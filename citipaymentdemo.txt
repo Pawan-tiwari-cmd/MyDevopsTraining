@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Sbi payment 
 HDFC
 Canara
+
